@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <>
       <PillNav active="hub" />
-      <main className="relative min-h-screen flex flex-col items-center overflow-hidden pb-28 bg-[#0A0A0A]">
+      <main className="relative min-h-screen flex flex-col items-center overflow-hidden pb-4 bg-[#0A0A0A]">
 
         {/* ── HEADER ────────────────────────────────── */}
         <header className="flex flex-col items-center text-center pt-16 pb-10 px-6">

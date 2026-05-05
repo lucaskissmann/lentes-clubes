@@ -3,12 +3,13 @@ import { ProductSpecs } from "@/components/product-specs";
 import NavbarTeste from "@/components/navbar";
 import Background from "@/components/background";
 import Link from "next/link";
+import PillNav from "@/components/pill-nav";
 
 export default function Inter() {
   return (
     <>
       <Background variant="inter" />
-      <NavbarTeste variant="inter" />
+      <PillNav active="inter" />
       <main className="text-white">
 
         <section className="min-h-screen flex items-center px-6 my-12">

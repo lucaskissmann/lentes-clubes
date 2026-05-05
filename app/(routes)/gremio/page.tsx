@@ -1,14 +1,15 @@
 import Image from "next/image";
 import { ProductSpecs } from "@/components/product-specs";
-import NavbarTeste from "@/components/navbar";
 import Background from "@/components/background";
 import Link from "next/link";
+import Navbar from "@/components/navbar";
+import PillNav from "@/components/pill-nav";
 
 export default function Gremio() {
   return (
     <>
       <Background variant="gremio" />
-      <NavbarTeste variant="gremio" />
+      <PillNav active="gremio" />
       <main className="text-white">
 
         <section className="min-h-screen flex items-center px-6 my-12">

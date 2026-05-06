@@ -6,6 +6,7 @@ import Link from "next/link";
 import PillNav from "@/components/pill-nav";
 import { OticaCard } from "@/components/otica-card";
 import oticas from "@/app/data/oticas-inter.json";
+import { OticaFilter } from "@/components/otica-filter";
 
 export default function Inter() {
   return (
@@ -78,29 +79,27 @@ export default function Inter() {
         </section>
 
         {/* ── ÓTICAS AUTORIZADAS ── */}
-        <section className=" pb-28 max-w-5xl mx-auto w-full">
-          <div className="mb-10">
-            <span className="text-sm tracking-widest uppercase text-red-400/60 mb-3 block">
-              Onde encontrar
-            </span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-white leading-snug">
-              Óticas autorizadas
-            </h2>
-            <p className="text-white/40 text-sm mt-2 max-w-md leading-relaxed">
-              Encontre uma loja perto de você e garanta as suas lentes com atendimento especializado.
-            </p>
-          </div>
+        <section className="px-6 pb-28">
+          <div className="max-w-5xl mx-auto w-full">
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {oticas.map((otica) => (
-              <OticaCard
-                key={otica.id}
-                image={otica.image}
-                nome={otica.nome}
-                endereco={otica.endereco}
-                whatsapp={otica.whatsapp}
-              />
-            ))}
+            <div className="mb-10">
+              <span className="text-sm tracking-widest uppercase text-red-400/60 mb-3 block">
+                Onde encontrar
+              </span>
+              <h2 className="text-2xl sm:text-3xl font-bold text-white leading-snug">
+                Óticas autorizadas
+              </h2>
+              <p className="text-white/40 text-sm mt-2 max-w-md leading-relaxed">
+                Encontre uma loja perto de você e garanta as suas lentes com atendimento especializado.
+              </p>
+            </div>
+
+            <OticaFilter
+              oticas={oticas}
+              accentColor="text-red-400"
+              borderColor="border-red-400/20"
+            />
+
           </div>
         </section>
       </main>

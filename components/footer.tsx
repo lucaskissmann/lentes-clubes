@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="w-full bg-[#0A0A0A] px-8 lg:px-24 py-6 flex items-center justify-end">
+    <footer className="w-full bg-[#0A0A0A] px-8 lg:px-24 py-4 flex items-center justify-end">
 		<Image
 			src="/forla-branco.png"
 			alt="Forla & Brum"

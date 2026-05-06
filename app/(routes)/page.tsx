@@ -1,8 +1,5 @@
-"use client";
-
 import PillNav from "@/components/pill-nav";
-import Image from "next/image";
-import Link from "next/link";
+import { ClubCard } from "@/components/club-card";
 
 const clubs = [
   {
@@ -33,8 +30,15 @@ export default function Home() {
   return (
     <>
       <PillNav active="hub" />
-      <main className="relative min-h-screen flex flex-col items-center overflow-hidden pb-4 bg-[#0A0A0A]">
-
+      <main
+        className="relative min-h-screen flex flex-col items-center overflow-hidden pb-28"
+        style={{
+          background: `
+            radial-gradient(ellipse 80% 40% at 50% 0%, rgba(255,255,255,0.04) 0%, transparent 70%),
+            #0A0A0A
+          `,
+        }}
+      >
         {/* ── HEADER ── */}
         <header className="flex flex-col items-center text-center pt-16 pb-10 px-6">
           <h1
@@ -65,56 +69,7 @@ export default function Home() {
         <section className="w-full max-w-lg px-6 mb-16">
           <div className="grid grid-cols-2 gap-[3px] rounded-2xl overflow-hidden">
             {clubs.map((club) => (
-              <Link key={club.id} href={club.href} className="group block">
-                <div
-                  className={`
-                    relative flex flex-col items-center justify-center
-                    w-full bg-gradient-to-br ${club.bg}
-                    transition-all duration-300 group-hover:brightness-110
-                    py-10 px-4
-                  `}
-                >
-                  {/* Glow radial ao hover */}
-                  <div
-                    className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
-                    style={{
-                      background: `radial-gradient(circle at 50% 60%, ${club.glow} 0%, transparent 70%)`,
-                    }}
-                  />
-
-                  {/* Escudo — responsivo via clamp, nunca corta */}
-                  <div
-                    className="relative z-10 mb-5 transition-transform duration-300 group-hover:scale-105 drop-shadow-[0_4px_20px_rgba(0,0,0,0.5)]"
-                    style={{
-                      width:  `clamp(52px, 25vw, ${club.logoWidth}px)`,
-                      height: `clamp(52px, 25vw, ${club.logoHeight}px)`,
-                    }}
-                  >
-                    <Image
-                      src={club.logo}
-                      alt={`Escudo ${club.name}`}
-                      width={club.logoWidth}
-                      height={club.logoHeight}
-                      className="w-full h-full object-contain"
-                    />
-                  </div>
-
-                  {/* Nome */}
-                  <p className="relative z-10 text-white font-bold tracking-widest uppercase text-sm sm:text-base text-center mb-1">
-                    {club.name}
-                  </p>
-
-                  {/* Frase */}
-                  <p className="relative z-10 text-white/40 text-[11px] italic text-center px-2 mb-5 leading-snug">
-                    {club.feeling}
-                  </p>
-
-                  {/* CTA pill */}
-                  <span className="relative z-10 text-[10px] font-semibold tracking-widest uppercase text-white/60 border border-white/20 rounded-full px-3 py-1 transition-all duration-200 group-hover:bg-white/10 group-hover:text-white group-hover:border-white/40 whitespace-nowrap">
-                    Ver lentes →
-                  </span>
-                </div>
-              </Link>
+              <ClubCard key={club.id} {...club} />
             ))}
           </div>
         </section>
@@ -133,7 +88,6 @@ export default function Home() {
         <p className="text-white/20 text-sm italic tracking-widest text-center">
           Enxergue com a alma do seu time.
         </p>
-
       </main>
     </>
   );

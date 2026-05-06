@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Forla Lajeado",
+    "endereco": "R. Luiz Gaspar Jung, 15 - Montanha, Lajeado - RS, 95905-075",
+    "whatsapp": "5551998753422",
+    "image": "/oticas/forla-lajeado.png"
+  },
+  {
+    "id": 2,
+    "nome": "Ótica 2",
+    "endereco": "Av. Alberto Pasqualini, 456 — Centro, Lajeado - RS, 95905-076",
+    "whatsapp": "5551999990002",
+    "image": "/oticas/otica-2.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Ótica 3",
+    "endereco": "Rua Sete de Setembro, 789 — Bairro Florestal, Lajeado - RS, 95905-077",
+    "whatsapp": "5551999990003",
+    "image": "/oticas/otica-3.jpg"
+  }
+]

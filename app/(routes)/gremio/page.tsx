@@ -2,8 +2,9 @@ import Image from "next/image";
 import { ProductSpecs } from "@/components/product-specs";
 import Background from "@/components/background";
 import Link from "next/link";
-import Navbar from "@/components/navbar";
 import PillNav from "@/components/pill-nav";
+import { OticaCard } from "@/components/otica-card";
+import oticas from "@/app/data/oticas-gremio.json";
 
 export default function Gremio() {
   return (
@@ -12,6 +13,7 @@ export default function Gremio() {
       <PillNav active="gremio" />
       <main className="text-white">
 
+        {/* ── HERO ── */}
         <section className="min-h-screen flex items-center px-6 my-12">
           <div className="grid md:grid-cols-2 gap-16 items-center max-w-5xl mx-auto w-full">
 
@@ -20,11 +22,10 @@ export default function Gremio() {
                 Linha Licenciada
               </span>
 
-              {/* MOBILE: emblema acima, tudo numa linha */}
               <div className="flex flex-col items-start gap-y-3 mb-4">
                 <div className="flex gap-x-2 items-center">
                   <Image
-                    src="/Gremio_logo.svg"
+                    src="/gremio/gremio-logo.png"
                     height={60}
                     width={60}
                     alt="Escudo do Grêmio."
@@ -61,12 +62,6 @@ export default function Gremio() {
                 pillTextColor="text-blue-300"
                 residualLabel="Residual Azul Inovador"
               />
-
-              <Link href="/redirect">
-                <button className="cursor-pointer mt-8 px-5 sm:px-6 py-2.5 sm:py-3 bg-blue-500/30 hover:bg-[#0093dd] rounded-lg transition-colors duration-200 font-medium text-sm sm:text-base tracking-wide">
-                  Saiba Mais
-                </button>
-              </Link>
             </div>
 
             <div className="relative mb-4">
@@ -81,6 +76,34 @@ export default function Gremio() {
 
           </div>
         </section>
+
+        {/* ── ÓTICAS AUTORIZADAS ── */}
+        <section className=" pb-28 max-w-5xl mx-auto w-full">
+          <div className="mb-10">
+            <span className="text-sm tracking-widest uppercase text-blue-400/60 mb-3 block">
+              Onde encontrar
+            </span>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white leading-snug">
+              Óticas autorizadas
+            </h2>
+            <p className="text-white/40 text-sm mt-2 max-w-md leading-relaxed">
+              Encontre uma loja perto de você e garanta as suas lentes com atendimento especializado.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {oticas.map((otica) => (
+              <OticaCard
+                key={otica.id}
+                image={otica.image}
+                nome={otica.nome}
+                endereco={otica.endereco}
+                whatsapp={otica.whatsapp}
+              />
+            ))}
+          </div>
+        </section>
+
       </main>
     </>
   );

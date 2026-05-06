@@ -13,7 +13,7 @@
     "nome": "Ótica 2",
     "endereco": "Av. Alberto Pasqualini, 456 — Centro, Lajeado - RS, 95905-076",
     "whatsapp": "5551999990002",
-    "image": "/oticas/otica-2.jpg",
+    "image": "/oticas/forla-lajeado.png",
     "uf": "RS",
     "cidade": "Lajeado"
   },
@@ -22,7 +22,7 @@
     "nome": "Ótica 3",
     "endereco": "Rua Sete de Setembro, 789 — Bairro Florestal, Porto Alegre - RS, 90000-001",
     "whatsapp": "5551999990003",
-    "image": "/oticas/otica-3.jpg",
+    "image": "/oticas/forla-lajeado.png",
     "uf": "RS",
     "cidade": "Porto Alegre"
   }

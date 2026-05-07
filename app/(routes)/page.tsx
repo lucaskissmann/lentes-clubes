@@ -66,7 +66,7 @@ export default function Home() {
         </header>
 
         {/* ── GRID DE CLUBES ── */}
-        <section className="w-full max-w-lg px-6 mb-16">
+        <section className="w-full max-w-lg px-6 mb-8">
           <div className="grid grid-cols-2 gap-[3px] rounded-2xl overflow-hidden">
             {clubs.map((club) => (
               <ClubCard key={club.id} {...club} />
@@ -74,9 +74,14 @@ export default function Home() {
           </div>
         </section>
 
+        <div className="flex flex-col items-center text-center text-[#A8884A] mb-8 text-[10px]">
+          <span>Official Licensed Product © Fama Licenciamentos 2026</span>
+          <span>Todos os Direitos Reservados.</span>
+        </div>
+
         {/* ── SELOS ── */}
         <div className="flex flex-wrap justify-center gap-5 mb-12 px-6 text-[12px] text-white/35">
-          {["Produto oficialmente licenciado", "15 Camadas AR", "Qualidade Forla Laboratório", "Entrega para todo o Brasil"].map((selo) => (
+          {["15 Camadas AR", "Qualidade Forla Laboratório", "Entrega para todo o Brasil"].map((selo) => (
             <span key={selo} className="flex items-center gap-2">
               <span className="text-[#A8884A]">✦</span>
               <strong className="text-white/55 font-medium">{selo}</strong>

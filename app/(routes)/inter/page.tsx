@@ -79,7 +79,7 @@ export default function Inter() {
         </section>
 
         {/* ── ÓTICAS AUTORIZADAS ── */}
-        <section className="px-6 pb-28">
+        <section className="px-6 pb-12">
           <div className="max-w-5xl mx-auto w-full">
 
             <div className="mb-10">
@@ -100,6 +100,17 @@ export default function Inter() {
               borderColor="border-red-400/20"
             />
 
+          </div>
+        </section>
+
+        <section>
+          <div className="flex flex-col items-center text-center text-[#A8884A] mb-24 text-[10px]">
+            <div className="flex items-center gap-2">
+              <span>✦</span>
+              <span>Produto Oficial licenciado pelo S.C. Internacional.</span>
+              <span>✦</span>
+            </div>
+            <span>by Fama Licenciamentos - Todos os Direitos Reservados 2026</span>
           </div>
         </section>
       </main>

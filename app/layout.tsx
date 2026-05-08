@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Lentes Grenal",
+  title: "Lentes Clubes",
   description: "Landing Page de apresentação do produto.",
 };
 

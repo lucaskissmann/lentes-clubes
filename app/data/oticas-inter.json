@@ -1,29 +1,202 @@
 [
   {
     "id": 1,
-    "nome": "Forla Lajeado",
-    "endereco": "R. Luiz Gaspar Jung, 15 - Montanha, Lajeado - RS, 95905-075",
-    "whatsapp": "5551998753422",
-    "image": "/oticas/forla-lajeado.png",
-    "uf": "RS",
-    "cidade": "Lajeado"
+    "nome": "Oticas Lauro Estrela",
+    "endereco": "Rua Coronel Flores, 297, Centro, Estrela - RS",
+    "whatsapp": "555137121354",
+    "image": "/oticas/lauro-estrela-centro.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Estrela",
+    "uf": "RS"
   },
   {
     "id": 2,
-    "nome": "Ótica 2",
-    "endereco": "Av. Alberto Pasqualini, 456 — Centro, Lajeado - RS, 95905-076",
-    "whatsapp": "5551999990002",
-    "image": "/oticas/forla-lajeado.png",
-    "uf": "RS",
-    "cidade": "Lajeado"
+    "nome": "Otica Lauro Geraldo",
+    "endereco": "Rua Geraldo Pereira, 338, Sala 102, Alto da Bronze, Estrela - RS",
+    "whatsapp": "555137123488",
+    "image": "/oticas/lauro-estrela-bronze.jpg",
+    "possuiWhatsapp": false,
+    "cidade": "Estrela",
+    "uf": "RS"
   },
   {
     "id": 3,
-    "nome": "Ótica 3",
-    "endereco": "Rua Sete de Setembro, 789 — Bairro Florestal, Porto Alegre - RS, 90000-001",
-    "whatsapp": "5551999990003",
-    "image": "/oticas/forla-lajeado.png",
-    "uf": "RS",
-    "cidade": "Porto Alegre"
+    "nome": "Otica Lauro Languiru",
+    "endereco": "Rua Major Bandeira, 703, Sala 01, Languiru, Teutônia - RS",
+    "whatsapp": "555137621337",
+    "image": "/oticas/lauro-teutonia-languiru.png",
+    "possuiWhatsapp": false,
+    "cidade": "Teutônia",
+    "uf": "RS"
+  },
+  {
+    "id": 4,
+    "nome": "Otica Lauro Canabarro",
+    "endereco": "Rua Capitão Schneider, 376, Sala 01, Canabarro, Teutônia - RS",
+    "whatsapp": "555137627359",
+    "image": "/oticas/lauro-teutonia-canabarro.png",
+    "possuiWhatsapp": false,
+    "cidade": "Teutônia",
+    "uf": "RS"
+  },
+  {
+    "id": 5,
+    "nome": "Otica Lauro Venancio",
+    "endereco": "Rua Osvaldo Aranha, 845, Centro, Venâncio Aires - RS",
+    "whatsapp": "555137414776",
+    "image": "/oticas/lauro-venancio.png",
+    "possuiWhatsapp": false,
+    "cidade": "Venâncio Aires",
+    "uf": "RS"
+  },
+  {
+    "id": 6,
+    "nome": "Otica Brum",
+    "endereco": "Rua Marechal Floriano, 1012, Sala A, Centro, Osório - RS",
+    "whatsapp": "555130480225",
+    "image": "/oticas/brum-osorio.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Osório",
+    "uf": "RS"
+  },
+  {
+    "id": 7,
+    "nome": "Otica Brum",
+    "endereco": "Rua Costa Gama, 648, Sala 03, Centro, Osório - RS",
+    "whatsapp": "555130480225",
+    "image": "/oticas/brum-osorio-2.png",
+    "possuiWhatsapp": false,
+    "cidade": "Osório",
+    "uf": "RS"
+  },
+  {
+    "id": 8,
+    "nome": "Otica Brum",
+    "endereco": "Avenida Paraguassu, 528, Atlântida Sul, Osório - RS",
+    "whatsapp": "555130480225",
+    "image": "/oticas/brum-osorio-paraguassu.png",
+    "possuiWhatsapp": false,
+    "cidade": "Osório",
+    "uf": "RS"
+  },
+  {
+    "id": 9,
+    "nome": "Casa Marco Parobé",
+    "endereco": "Rua Dr. Legendre, 560, Sala 05, Centro, Parobé - RS",
+    "whatsapp": "5551998682749",
+    "image": "/oticas/casa-marco-parobe.png",
+    "possuiWhatsapp": true,
+    "cidade": "Parobé",
+    "uf": "RS"
+  },
+  {
+    "id": 10,
+    "nome": "Casa Marco Igrejinha",
+    "endereco": "Avenida Presidente Castelo Branco, 471, Centro, Igrejinha - RS",
+    "whatsapp": "5551998682749",
+    "image": "/oticas/casa-marco-igrejinha.png",
+    "possuiWhatsapp": true,
+    "cidade": "Igrejinha",
+    "uf": "RS"
+  },
+  {
+    "id": 11,
+    "nome": "Casa Marco Três Coroas",
+    "endereco": "Rua Mundo Novo, 225, Loja 02, Centro, Três Coroas - RS",
+    "whatsapp": "555135433777",
+    "image": "/oticas/casa-marco-tres-coroas.png",
+    "possuiWhatsapp": false,
+    "cidade": "Três Coroas",
+    "uf": "RS"
+  },
+  {
+    "id": 12,
+    "nome": "Simone Campelo",
+    "endereco": "Rua 15 de Novembro, 204, Centro, Jaguarão - RS",
+    "whatsapp": "555332615889",
+    "image": "/oticas/simone-campelo.jpg",
+    "possuiWhatsapp": false,
+    "cidade": "Jaguarão",
+    "uf": "RS"
+  },
+  {
+    "id": 13,
+    "nome": "Estima",
+    "endereco": "Rua General Neto, 68, Centro, Rio Grande - RS",
+    "whatsapp": "555332324104",
+    "image": "/oticas/estima-rio-grande.png",
+    "possuiWhatsapp": false,
+    "cidade": "Rio Grande",
+    "uf": "RS"
+  },
+  {
+    "id": 14,
+    "nome": "Olhar do Sul",
+    "endereco": "Avenida Sete de Setembro, 911, Sala 02, Centro, Bagé - RS",
+    "whatsapp": "555333126061",
+    "image": "/oticas/olhar-do-sul.png",
+    "possuiWhatsapp": false,
+    "cidade": "Bagé",
+    "uf": "RS"
+  },
+  {
+    "id": 15,
+    "nome": "Conceito Ijuí",
+    "endereco": "Rua do Comércio, 1841, Pindorama, Ijuí - RS",
+    "whatsapp": "555533333487",
+    "image": "/oticas/conceito-ijui.png",
+    "possuiWhatsapp": false,
+    "cidade": "Ijuí",
+    "uf": "RS"
+  },
+  {
+    "id": 16,
+    "nome": "Nórea",
+    "endereco": "Rua Pedro Maragno, 736, Progresso, Bento Gonçalves - RS",
+    "whatsapp": "5554996886252",
+    "image": "/oticas/norea.png",
+    "possuiWhatsapp": true,
+    "cidade": "Bento Gonçalves",
+    "uf": "RS"
+  },
+  {
+    "id": 17,
+    "nome": "Casa Marco Taquara",
+    "endereco": "Rua Guilherme Lahm, 1347, Centro, Taquara - RS",
+    "whatsapp": "555140639747",
+    "image": "/oticas/casa-marco-taquara.png",
+    "possuiWhatsapp": false,
+    "cidade": "Taquara",
+    "uf": "RS"
+  },
+  {
+    "id": 18,
+    "nome": "Cmax",
+    "endereco": "Avenida Nereu Ramos, 75D, Sala 1004B, Centro, Chapecó - SC",
+    "whatsapp": "554933313024",
+    "image": "/oticas/cmax-chapeco.png",
+    "possuiWhatsapp": false,
+    "cidade": "Chapecó",
+    "uf": "SC"
+  },
+  {
+    "id": 19,
+    "nome": "Mercadão dos Óculos Vacaria",
+    "endereco": "Rua Doutor Flores, 352, Salas 19 e 20, Centro, Vacaria - RS",
+    "whatsapp": "5554996141650",
+    "image": "/oticas/mdo-vacaria.png",
+    "possuiWhatsapp": true,
+    "cidade": "Vacaria",
+    "uf": "RS"
+  },
+  {
+    "id": 20,
+    "nome": "Oticas Laurindo Itaum",
+    "endereco": "Rua Monsenhor Gercino, 1286, Loja 06, Itaum, Joinville - SC",
+    "whatsapp": "5547996648387",
+    "image": "/oticas/laurindo-joinville.png",
+    "possuiWhatsapp": true,
+    "cidade": "Joinville",
+    "uf": "SC"
   }
 ]

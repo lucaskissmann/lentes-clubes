@@ -8,6 +8,7 @@ interface Otica {
   nome: string
   endereco: string
   whatsapp: string
+	possuiWhatsapp: boolean
   image: string
   uf: string
   cidade: string
@@ -130,6 +131,7 @@ export function OticaFilter({ oticas, accentColor, borderColor }: OticaFilterPro
               nome={otica.nome}
               endereco={otica.endereco}
               whatsapp={otica.whatsapp}
+							possuiWhatsapp={otica.possuiWhatsapp}
             />
           ))}
         </div>

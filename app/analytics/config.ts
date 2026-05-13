@@ -1,2 +1,2 @@
-export const GA_MEASUREMENT_ID = "G-XXXXXXXXXX";
+export const GA_MEASUREMENT_ID = "G-L2FP06J8FG";
 export const META_PIXEL_ID = "267002772432187";

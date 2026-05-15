@@ -198,5 +198,15 @@
     "possuiWhatsapp": true,
     "cidade": "Joinville",
     "uf": "SC"
+  },
+  {
+    "id": 21,
+    "nome": "Ótica Combina",
+    "endereco": "Rua Sen Pinheiro Machado, 1039, sala 01, Centro, Bom Retiro do Sul - RS",
+    "whatsapp": "5551999965977",
+    "image": "/oticas/otica-combina.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Bom Retiro do Sul",
+    "uf": "RS"
   }
 ]

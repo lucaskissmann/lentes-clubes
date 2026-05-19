@@ -208,5 +208,105 @@
     "possuiWhatsapp": true,
     "cidade": "Bom Retiro do Sul",
     "uf": "RS"
+  },
+  {
+    "id": 22,
+    "nome": "Mercadão dos Óculos Biguaçu",
+    "endereco": "Rua Coronel Teixeira Oliveira, 288, sala 02, Centro - Biguaçu - SC",
+    "whatsapp": "5548984356970",
+    "image": "/oticas/mdo-biguacu.png",
+    "possuiWhatsapp": true,
+    "cidade": "Biguaçu",
+    "uf": "SC"
+  },
+  {
+    "id": 23,
+    "nome": "Mercadão dos Óculos Bombinhas",
+    "endereco": "Avenida Leopoldo Zarling, 2467, sala 01, Bombas - Bombinhas - SC",
+    "whatsapp": "5548984799691",
+    "image": "/oticas/mdo-bombinhas.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Bombinhas",
+    "uf": "SC"
+  },
+  {
+    "id": 24,
+    "nome": "Óptica Vittoria",
+    "endereco": "Rua General Vitorino, 250, Centro Historico - Porto Alegre - RS",
+    "whatsapp": "555132260274",
+    "image": "/oticas/optica-vittoria.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 25,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Snato Antonio, 114 sala 03 Centro - Criciúma - SC",
+    "whatsapp": "5551983164860",
+    "image": "/oticas/diniz-criciuma.png",
+    "possuiWhatsapp": true,
+    "cidade": "Criciúma",
+    "uf": "SC"
+  },
+  {
+    "id": 26,
+    "nome": "Óticas Diniz Azenha",
+    "endereco": "AV Azenha, 1194, Azenha - Porto Alegre - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-azenha.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 27,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua São Jose, 629 sala 201 Centro - Guaíba - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-guaiba.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Guaíba",
+    "uf": "RS"
+  },
+  {
+    "id": 28,
+    "nome": "Óticas Diniz Cristo Redentor",
+    "endereco": "Av Assis Brasil, 2611 Loja 235 Cristo Redentor - Porto Alegre - RS",
+    "whatsapp": "555132523810",
+    "image": "/oticas/diniz-cristo-redentor-19.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 29,
+    "nome": "Óticas Diniz Praia de Belas",
+    "endereco": "Av Praia de Belas, 1181 Loja 3059 Praia de Belas  - Porto Alegre - RS",
+    "whatsapp": "5551994110421",
+    "image": "/oticas/diniz-praia-de-belas.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 30,
+    "nome": "Óticas Diniz",
+    "endereco": "Av Farroupilha, 4545 Luc 2105 Pav L2, Marechal Rondon, Canoas - RS",
+    "whatsapp": "5551992920892",
+    "image": "/oticas/diniz-canoas.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Canoas",
+    "uf": "RS"
+  },
+  {
+    "id": 31,
+    "nome": "Óticas Diniz Cristo Redentor",
+    "endereco": "Av Assis Brasil, 2459, Cristo Redentor - Porto Alegre - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-cristo-redentor.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
   }
 ]

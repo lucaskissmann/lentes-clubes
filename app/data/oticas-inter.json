@@ -308,5 +308,65 @@
     "possuiWhatsapp": true,
     "cidade": "Porto Alegre",
     "uf": "RS"
+  },
+  {
+    "id": 31,
+    "nome": "Ótica Visual",
+    "endereco": "Rua Gal Neto, 130, Centro - Rio Grande - RS",
+    "whatsapp": "555332317555",
+    "image": "/oticas/visual-rg.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Rio Grande",
+    "uf": "RS"
+  },
+  {
+    "id": 32,
+    "nome": "Ótica Visual",
+    "endereco": "Rua Dr. Alvaro Costa, 24, Centro - São José do Norte - RS",
+    "whatsapp": "555332382357",
+    "image": "/oticas/visual-sjn.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "São José do Norte",
+    "uf": "RS"
+  },
+  {
+    "id": 33,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Reverendo Americo Vespucio Cabral, 322, Loja 04, Centro - Viamão - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-viamao.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Viamão",
+    "uf": "RS"
+  },
+  {
+    "id": 34,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Bento Gonçalves, 2556, Centro - Novo Hamburgo - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-nh.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Novo Hamburgo",
+    "uf": "RS"
+  },
+  {
+    "id": 35,
+    "nome": "Óticas Diniz",
+    "endereco": "Av Dorival Cnadido Luz de Oliveira, 83, Centro - Gravatai - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-gravatai.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Gravataí",
+    "uf": "RS"
+  },
+  {
+    "id": 36,
+    "nome": "Óptica Pupila",
+    "endereco": "Rua Bento Gonçalves, 701, sala 3, Centro - São Leopoldo - RS",
+    "whatsapp": "5551991963113",
+    "image": "/oticas/pupila.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Leopoldo",
+    "uf": "RS"
   }
 ]

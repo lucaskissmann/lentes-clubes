@@ -368,5 +368,125 @@
     "possuiWhatsapp": true,
     "cidade": "São Leopoldo",
     "uf": "RS"
+  },
+  {
+  "id": 37,
+  "nome": "Óticas Diniz",
+  "endereco": "Rua Borges de Medeiros, 312, Térreo, Centro, Porto Alegre - RS",
+  "whatsapp": "5551992369151",
+  "image": "/oticas/diniz-poa-03.jpeg",
+  "possuiWhatsapp": true,
+  "cidade": "Porto Alegre",
+  "uf": "RS"
+  },
+  {
+    "id": 38,
+    "nome": "Óticas Diniz",
+    "endereco": "Avenida Ipiranga, 1801, Loja 12, Azenha, Porto Alegre - RS",
+    "whatsapp": "555132523806",
+    "image": "/oticas/diniz-poa-04.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 39,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Otto Niemeyer, 2727, Loja 05, Cavalhada, Porto Alegre - RS",
+    "whatsapp": "5551992369151",
+    "image": "/oticas/diniz-poa-11.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 40,
+    "nome": "Otica Analy",
+    "endereco": "Avenida Fernando Machado, 255, Letra D, Sala 102, Centro, Chapecó - SC",
+    "whatsapp": "5549988376863",
+    "image": "/oticas/analy.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Chapecó",
+    "uf": "SC"
+  },
+  {
+    "id": 41,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua dos Andradas, 1700, Térreo, Centro Histórico, Porto Alegre - RS",
+    "whatsapp": "555132523806",
+    "image": "/oticas/diniz-8.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 42,
+    "nome": "Óticas Diniz",
+    "endereco": "Avenida Presidente Getúlio Vargas, 1891, Loja 02, Bela Vista, Alvorada - RS",
+    "whatsapp": "5551989072680",
+    "image": "/oticas/diniz-alvorada.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Alvorada",
+    "uf": "RS"
+  },
+  {
+    "id": 43,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Flores da Cunha, 34, Centro, Bagé - RS",
+    "whatsapp": "555332474751",
+    "image": "/oticas/diniz-bage.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Bagé",
+    "uf": "RS"
+  },
+  {
+    "id": 44,
+    "nome": "Otica Itati",
+    "endereco": "Rua Fernandes Bastos, 823, Loja 03, Centro, Tramandaí - RS",
+    "whatsapp": "5551985474143",
+    "image": "/oticas/itati.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Tramandaí",
+    "uf": "RS"
+  },
+  {
+    "id": 45,
+    "nome": "Casa Du Oculos",
+    "endereco": "Rua Julio de Castilhos, 501, Niterói, Canoas - RS",
+    "whatsapp": "5551996027738",
+    "image": "/oticas/du-oculos.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Canoas",
+    "uf": "RS"
+  },
+  {
+    "id": 46,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Avenida General Flores da Cunha, 824, Vila Veranópolis, Cachoeirinha - RS",
+    "whatsapp": "5551984419844",
+    "image": "/oticas/mdo-caichoeirinha.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Cachoeirinha",
+    "uf": "RS"
+  },
+  {
+    "id": 47,
+    "nome": "Mercadão dos Óculos Gravataí",
+    "endereco": "Avenida José Loureiro da Silva, 1650, Centro, Gravataí - RS",
+    "whatsapp": "5551984419844",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Gravataí",
+    "uf": "RS"
+  },
+  {
+    "id": 48,
+    "nome": "Gemini Cândido Godói",
+    "endereco": "Rua Liberato Salzano, 129, Sala 2B, Centro, Cândido Godói - RS",
+    "whatsapp": "5555999865298",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Cândido Godói",
+    "uf": "RS"
   }
 ]

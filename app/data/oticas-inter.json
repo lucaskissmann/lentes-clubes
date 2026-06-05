@@ -488,5 +488,45 @@
     "possuiWhatsapp": true,
     "cidade": "Cândido Godói",
     "uf": "RS"
+  },
+  {
+    "id": 49,
+    "nome": "Visão Dino",
+    "endereco": "Av Cel Victor Villa Verde. 93, loja 01, Pitangueiras - Santo Antônio da Patrulha - RS",
+    "whatsapp": "555136627175",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Santo Antônio da Patrulha",
+    "uf": "RS"
+  },
+  {
+    "id": 50,
+    "nome": "Mercadão dos Óculos - Santa Isabel",
+    "endereco": "Avenida Liberdade, 1734, loja 01, Santa isabel - Viamão - RS",
+    "whatsapp": "5551995221844",
+    "image": "/oticas/mdo-santa-isabel.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Viamão",
+    "uf": "RS"
+  },
+  {
+    "id": 51,
+    "nome": "Óptica Classmann",
+    "endereco": "Av Pres. Castelo Branco, 639, sala 02, Centro, Crissiumal - RS",
+    "whatsapp": "555535242000",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Crissiumal",
+    "uf": "RS"
+  },
+  {
+    "id": 52,
+    "nome": "Gemini SR",
+    "endereco": "Rua Cel. Bicaco, 89, sala 03, Centro, Catuípe - RS ",
+    "whatsapp": "5555999094105",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Catuípe",
+    "uf": "RS"
   }
 ]

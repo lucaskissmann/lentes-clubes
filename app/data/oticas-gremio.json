@@ -528,5 +528,65 @@
     "possuiWhatsapp": true,
     "cidade": "Catuípe",
     "uf": "RS"
+  },
+  {
+  "id": 53,
+  "nome": "Mercadão dos Óculos Canela",
+  "endereco": "Avenida Julio de Castilhos, 5, Loja 01, Centro, Canela - RS",
+  "whatsapp": "555433035850",
+  "image": "/oticas/mdo-canela.jpeg",
+  "possuiWhatsapp": false,
+  "cidade": "Canela",
+  "uf": "RS"
+  },
+  {
+    "id": 54,
+    "nome": "Óticas Diniz Lisboa",
+    "endereco": "Avenida João Wallig, 1800, Loja SUC 1238, Jardim Europa, Porto Alegre - RS",
+    "whatsapp": "5551993925626",
+    "image": "/oticas/diniz-poa-lisboa.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 55,
+    "nome": "Óptica Luiza",
+    "endereco": "Avenida Expedicionário, 773, Sala 03, Centro, Sarandi - RS",
+    "whatsapp": "555433612454",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Sarandi",
+    "uf": "RS"
+  },
+  {
+    "id": 56,
+    "nome": "Gemini Alecrim",
+    "endereco": "Rua Vereador Adelmi Colossi, 319, Centro, Alecrim - RS",
+    "whatsapp": "5555999467366",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Alecrim",
+    "uf": "RS"
+  },
+  {
+    "id": 57,
+    "nome": "Centro Óptico Camobi",
+    "endereco": "Estrada RST 509, 7035, Sala 103, Camobi, Santa Maria - RS",
+    "whatsapp": "555530269311",
+    "image": "/oticas/centro-optico-camobi.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Santa Maria",
+    "uf": "RS"
+  },
+  {
+    "id": 58,
+    "nome": "Ótica Visão",
+    "endereco": "Rua Cap. João de Oliveira Lima, 83, Sala 06, Centro, Santo Antônio da Patrulha - RS",
+    "whatsapp": "555136621443",
+    "image": "/oticas/otica-visao.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Santo Antônio da Patrulha",
+    "uf": "RS"
   }
 ]

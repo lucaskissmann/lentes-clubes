@@ -588,5 +588,125 @@
     "possuiWhatsapp": false,
     "cidade": "Santo Antônio da Patrulha",
     "uf": "RS"
+  },
+  {
+    "id": 59,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua Assis Brasil, 586, Sala 01, Centro, São Francisco de Paula - RS",
+    "whatsapp": "5548999440069",
+    "image": "/oticas/mdo-sao-francisco-paula.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "São Francisco de Paula",
+    "uf": "RS"
+  },
+  {
+    "id": 60,
+    "nome": "Orasis",
+    "endereco": "Rodovia Armando Calil Bulos, 5353, Vargem Grande, Florianópolis - SC",
+    "whatsapp": "554832427450",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Florianópolis",
+    "uf": "SC"
+  },
+  {
+    "id": 61,
+    "nome": "Óticas Diniz",
+    "endereco": "Avenida Silva Paes, 350, Centro, Rio Grande - RS",
+    "whatsapp": "555330351888",
+    "image": "/oticas/diniz-rio-grande01.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Rio Grande",
+    "uf": "RS"
+  },
+  {
+    "id": 62,
+    "nome": "Óticas Diniz Andrade Naves",
+    "endereco": "Rua Andrade Naves, 1750, Centro, Pelotas - RS",
+    "whatsapp": "555333070526",
+    "image": "/oticas/diniz-pelotas01.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  {
+    "id": 63,
+    "nome": "Óticas Diniz Marechal",
+    "endereco": "Rua Marechal Deodoro, 665, Centro, Pelotas - RS",
+    "whatsapp": "5553991203092",
+    "image": "/oticas/diniz-marechal-pelotas.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  {
+    "id": 64,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Domingos de Almeida, 1875, Loja, Centro, Uruguaiana - RS",
+    "whatsapp": "5553991203092",
+    "image": "/oticas/diniz-uruguaiana.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Uruguaiana",
+    "uf": "RS"
+  },
+  {
+    "id": 65,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Vasco Alves, 315, Centro, Alegrete - RS",
+    "whatsapp": "5553991884890",
+    "image": "/oticas/diniz-alegretense.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Alegrete",
+    "uf": "RS"
+  },
+  {
+    "id": 66,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Julio de Castilhos, 347, Térreo, Centro, Camaquã - RS",
+    "whatsapp": "555136711660",
+    "image": "/oticas/diniz-camaqua.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Camaquã",
+    "uf": "RS"
+  },
+  {
+    "id": 67,
+    "nome": "Ótica Frantz",
+    "endereco": "Rua Dom Pedro II, 2112, Sala 02, Centro, Santo Cristo - RS",
+    "whatsapp": "555531981000",
+    "image": "/oticas/frantz.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Santo Cristo",
+    "uf": "RS"
+  },
+  {
+    "id": 68,
+    "nome": "Óticas Diniz 7 de Setembro",
+    "endereco": "Rua 7 de Setembro, 360, Centro, Pelotas - RS",
+    "whatsapp": "555332221319",
+    "image": "/oticas/diniz-pelotas-rs.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  {
+    "id": 69,
+    "nome": "Portovisão",
+    "endereco": "Rua Vigário José Inácio, 479, Centro, Porto Alegre - RS",
+    "whatsapp": "555132260063",
+    "image": "/oticas/portovisao.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 70,
+    "nome": "Ótica Apolo",
+    "endereco": "Rua João Pessoa, 784, Centro, Rio Pardo - RS",
+    "whatsapp": "555137311968",
+    "image": "/oticas/apolo.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Rio Pardo",
+    "uf": "RS"
   }
 ]

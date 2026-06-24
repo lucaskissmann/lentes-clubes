@@ -691,7 +691,7 @@
   },
   {
     "id": 69,
-    "nome": "Portovisão",
+    "nome": "Porto Visão",
     "endereco": "Rua Vigário José Inácio, 479, Centro, Porto Alegre - RS",
     "whatsapp": "555132260063",
     "image": "/oticas/portovisao.jpeg",
@@ -707,6 +707,46 @@
     "image": "/oticas/apolo.jpeg",
     "possuiWhatsapp": false,
     "cidade": "Rio Pardo",
+    "uf": "RS"
+  },
+  {
+    "id": 71,
+    "nome": "Óticas Diniz Cristal",
+    "endereco": "Avenida Diário de Notícias, 300, Loja LUC 2127, Cristal, Porto Alegre - RS",
+    "whatsapp": "5551989072680",
+    "image": "/oticas/diniz-cristal.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 72,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua Cônego Estanislau Scherer, 544, Centro, Guaíba - RS",
+    "whatsapp": "5551996328704",
+    "image": "/oticas/mdo-guaiba.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Guaíba",
+    "uf": "RS"
+  },
+  {
+    "id": 73,
+    "nome": "Porto Visão",
+    "endereco": "Rua dos Andradas, 1563, Centro, Porto Alegre - RS",
+    "whatsapp": "555132260063",
+    "image": "/oticas/portovisao-poa.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 74,
+    "nome": "Ouro e Prata",
+    "endereco": "Rua São Lourenço, 681, Centro, São Paulo das Missões - RS",
+    "whatsapp": "555535631213",
+    "image": "/oticas/ouro-e-prata-sp-missoes.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo das Missões",
     "uf": "RS"
   }
 ]

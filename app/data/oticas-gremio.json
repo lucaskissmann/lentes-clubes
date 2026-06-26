@@ -748,5 +748,25 @@
     "possuiWhatsapp": false,
     "cidade": "São Paulo das Missões",
     "uf": "RS"
+  },
+  {
+    "id": 75,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Marechal Floriano, 422, Centro, Santa Cruz do Sul - RS",
+    "whatsapp": "555137415333 ",
+    "image": "/oticas/diniz-sta-cruz.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Santa Cruz do Sul",
+    "uf": "RS"
+  },
+  {
+    "id": 76,
+    "nome": "Ótica Deluxe",
+    "endereco": "Rua dos Andradas, 1715, Centro Histórico, Porto Alegre - RS",
+    "whatsapp": "5551995240187",
+    "image": "/oticas/deluxe-poa.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
   }
 ]

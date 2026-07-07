@@ -768,5 +768,55 @@
     "possuiWhatsapp": true,
     "cidade": "Porto Alegre",
     "uf": "RS"
+  },
+  {
+    "id": 77,
+    "nome": "Centro Óptico José Bonifácio",
+    "endereco": "Rua José Bonifácio, 2551, loja 102, Centro, Santa Maria - RS",
+    "whatsapp": "555533471337",
+    "image": "/oticas/jose-bonifacio.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Santa Maria",
+    "uf": "RS"
+  },
+  {
+    "id": 78,
+    "nome": "Ótica e Relojoaria JB",
+    "endereco": "Av. Argolo, 119, Centro, São Bento do Sul - SC",
+    "whatsapp": "5547996014264",
+    "image": "/oticas/jb-jlle.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "São Bento do Sul",
+    "uf": "SC"
+  },
+  {
+    "id": 79,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Av Prefeito José Juvenal Mafra, 8222, Sala 02 Térreo, Gravata, Navegantes - SC",
+    "whatsapp": "555131701716",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Navegantes",
+    "uf": "SC"
+  },
+  {
+    "id": 80,
+    "nome": "Óticas Diniz",
+    "endereco": "Rua Osvaldo Aranha, 1133, Centro, Venâncio Aires - RS",
+    "whatsapp": "5551981790791",
+    "image": "/oticas/diniz-venancio.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Venâncio Aires",
+    "uf": "RS"
+  },
+  {
+    "id": 81,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua dos Andradas, 1644, Centro Histórico, Porto Alegre - RS",
+    "whatsapp": "5551996328704",
+    "image": "/oticas/mdo-andradas.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
   }
 ]

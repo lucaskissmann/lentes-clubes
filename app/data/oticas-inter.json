@@ -818,5 +818,26 @@
     "possuiWhatsapp": true,
     "cidade": "Porto Alegre",
     "uf": "RS"
+  },
+  {
+    "id": 82,
+    "nome": "Óptica Rê Visão",
+    "endereco": "Rua Santa Cruz, 56, Sete, Sapucaia do Sul - RS",
+    "whatsapp": "555131181982",
+    "image": "/oticas/revisao.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Sapucaia do Sul",
+    "uf": "RS"
+  }
+  ,
+  {
+    "id": 83,
+    "nome": "Mercadão dos Óculos - Borges",
+    "endereco": "Av Borges de Medeiros, 445, Centro Histórico, Porto Alegre - RS",
+    "whatsapp": "5551989747370",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
   }
 ]

@@ -828,8 +828,7 @@
     "possuiWhatsapp": false,
     "cidade": "Sapucaia do Sul",
     "uf": "RS"
-  }
-  ,
+  },
   {
     "id": 83,
     "nome": "Mercadão dos Óculos - Borges",
@@ -838,6 +837,36 @@
     "image": "/oticas/default.png",
     "possuiWhatsapp": true,
     "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 84,
+    "nome": "Óticas Diniz",
+    "endereco": "Av Fernandes Bastos, 348, Centro, Tramandaí - RS",
+    "whatsapp": "555182030410",
+    "image": "/oticas/diniz-tramandai.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Tramandaí",
+    "uf": "RS"
+  },
+  {
+    "id": 85,
+    "nome": "Ótica Lisboa",
+    "endereco": "Rua General Osório, 1400, Centro, Canguçu - RS",
+    "whatsapp": "555384126004",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Canguçu",
+    "uf": "RS"
+  },
+  {
+    "id": 86,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua 15 de Novembro, 777, Centro, Passo Fundo - RS",
+    "whatsapp": "555496240777",
+    "image": "/oticas/mdo-passo-fundo.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Passo Fundo",
     "uf": "RS"
   }
 ]

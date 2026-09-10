@@ -868,5 +868,35 @@
     "possuiWhatsapp": true,
     "cidade": "Passo Fundo",
     "uf": "RS"
+  },
+  {
+    "id": 87,
+    "nome": "Ótica Pompeo",
+    "endereco": "Beco das Águas, 795, Sala 01 Térreo, Centro, Quilombo - SC",
+    "whatsapp": "5549999343096",
+    "image": "/oticas/pompeo.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Quilombo",
+    "uf": "SC"
+  },
+  {
+    "id": 88,
+    "nome": "Ótica Kohler",
+    "endereco": "Rua Augusto Maluche, 33, Fundos Sala B, Centro 2, Brusque - SC",
+    "whatsapp": "554732555555",
+    "image": "/oticas/kohler.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Brusque",
+    "uf": "SC"
+  },
+  {
+    "id": 89,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua Luís Satler, 120, Sala 3, Barra do Rio Cerro, Jaraguá do Sul - SC",
+    "whatsapp": "5547992146846",
+    "image": "/oticas/mdo-jaragua.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Jaraguá do Sul",
+    "uf": "SC"
   }
 ]

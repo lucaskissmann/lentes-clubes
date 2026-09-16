@@ -898,5 +898,45 @@
     "possuiWhatsapp": true,
     "cidade": "Jaraguá do Sul",
     "uf": "SC"
+  },
+  {
+    "id": 90,
+    "nome": "3OFF Prime",
+    "endereco": "Rua Dom Joaquim Domingues de Oliveira, 323, Passo Do Forte, Chapecó - SC",
+    "whatsapp": "5549999387765",
+    "image": "/oticas/30OFF.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Chapecó",
+    "uf": "SC"
+  },
+  {
+    "id": 91,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Av. João Corrêa, 826, Sala 1, Centro, Sapiranga - RS",
+    "whatsapp": "5551995932621",
+    "image": "/oticas/mdo-sapiranga.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Sapiranga",
+    "uf": "RS"
+  },
+  {
+    "id": 92,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua Uruguai, 597, Sala 1, Centro, Passo Fundo - RS",
+    "whatsapp": "5554999180412",
+    "image": "/oticas/mdo-passo-fundo-2.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Passo Fundo",
+    "uf": "RS"
+  },
+  {
+    "id": 93,
+    "nome": "Ótica Beni",
+    "endereco": "Rua Doralice Ramos Pinho, 412, Loja 8, Jardim Cidade de Florianópolis, São José - SC",
+    "whatsapp": "5548984126383",
+    "image": "/oticas/beni.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "São José",
+    "uf": "SC"
   }
 ]

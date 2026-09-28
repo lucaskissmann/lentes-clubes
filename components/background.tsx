@@ -1,4 +1,4 @@
-type BackgroundVariant = "grenal" | "gremio" | "inter";
+type BackgroundVariant = "grenal" | "gremio" | "inter" | "palmeiras" | "corinthians";
 
 interface BackgroundProps {
   variant?: BackgroundVariant;
@@ -42,6 +42,22 @@ export default function Background({ variant = "grenal" }: BackgroundProps) {
           <div className="fixed top-[-60px] right-[-60px] w-[400px] h-[350px] bg-[#8B0000] blur-[150px] opacity-20 pointer-events-none -z-10" />
           {/* Tom quente centro-baixo para o bege/pêssego da imagem */}
           <div className="fixed bottom-[5%] right-[10%] w-[350px] h-[250px] bg-[#c0634a] blur-[140px] opacity-20 pointer-events-none -z-10" />
+        </>
+      )}
+
+      {variant === "palmeiras" && (
+        <>
+          <div className="fixed bottom-[-80px] left-[-80px] w-[600px] h-[500px] bg-[#006537] blur-[180px] opacity-25 pointer-events-none -z-10" />
+          <div className="fixed top-[-60px] right-[-60px] w-[400px] h-[400px] bg-[#006537] blur-[160px] opacity-20 pointer-events-none -z-10" />
+          <div className="fixed bottom-[10%] right-[20%] w-[300px] h-[300px] bg-green-900 blur-[120px] opacity-30 pointer-events-none -z-10" />
+        </>
+      )}
+
+      {variant === "corinthians" && (
+        <>
+          <div className="fixed bottom-[-80px] left-[-80px] w-[600px] h-[500px] bg-zinc-500 blur-[180px] opacity-25 pointer-events-none -z-10" />
+          <div className="fixed top-[-60px] right-[-60px] w-[400px] h-[400px] bg-zinc-500 blur-[160px] opacity-20 pointer-events-none -z-10" />
+          <div className="fixed bottom-[10%] right-[20%] w-[300px] h-[300px] bg-zinc-400 blur-[120px] opacity-30 pointer-events-none -z-10" />
         </>
       )}
     </>

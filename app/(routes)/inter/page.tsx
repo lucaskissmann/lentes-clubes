@@ -1,10 +1,7 @@
 import Image from "next/image";
 import { ProductSpecs } from "@/components/product-specs";
-import NavbarTeste from "@/components/navbar";
 import Background from "@/components/background";
-import Link from "next/link";
 import PillNav from "@/components/pill-nav";
-import { OticaCard } from "@/components/otica-card";
 import oticas from "@/app/data/oticas-inter.json";
 import { OticaFilter } from "@/components/otica-filter";
 

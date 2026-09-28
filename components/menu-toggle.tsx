@@ -29,6 +29,12 @@ export function MenuToggle() {
         <DropdownMenuItem asChild className="focus:bg-white/10 focus:text-white cursor-pointer">
           <Link href="/inter">Colorado</Link>
         </DropdownMenuItem>
+        <DropdownMenuItem asChild className="focus:bg-white/10 focus:text-white cursor-pointer">
+          <Link href="/palmeiras">Verdão</Link>
+        </DropdownMenuItem>
+        <DropdownMenuItem asChild className="focus:bg-white/10 focus:text-white cursor-pointer">
+          <Link href="/corinthians">Timão</Link>
+        </DropdownMenuItem>
         <DropdownMenuSeparator className="bg-white/10" />
         <DropdownMenuItem asChild className="focus:bg-white/10 focus:text-white cursor-pointer">
           <Link href="https://forla.com.br/" target="_blank" rel="noopener noreferrer">

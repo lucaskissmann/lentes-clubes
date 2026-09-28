@@ -24,6 +24,28 @@ const clubs = [
     bg: "from-[#05091a] via-[#0D1E54] to-[#0093dd]/70",
     glow: "rgba(26,59,140,0.28)",
   },
+  {
+    id: "palmeiras",
+    name: "Palmeiras",
+    feeling: "Verdão até no olhar.",
+    href: "/palmeiras",
+    logo: "/palmeiras/palmeiras-logo.webp",
+    logoWidth: 96,
+    logoHeight: 96,
+    bg: "from-[#02140a] via-[#0B5A2B] to-[#006437]/70",
+    glow: "rgba(0,100,55,0.28)",
+  },
+  {
+    id: "corinthians",
+    name: "Corinthians",
+    feeling: "Fiel ao Timão sempre.",
+    href: "/corinthians",
+    logo: "/corinthians/corinthians-logo-render.png",
+    logoWidth: 96,
+    logoHeight: 96,
+    bg: "from-[#141414] via-[#1a1a1a] to-[#ffffff]/20",
+    glow: "rgba(255,255,255,0.01)",
+  },
 ];
 
 export default function Home() {
@@ -66,8 +88,8 @@ export default function Home() {
         </header>
 
         {/* ── GRID DE CLUBES ── */}
-        <section className="w-full max-w-lg px-6 mb-8">
-          <div className="grid grid-cols-2 gap-[3px] rounded-2xl overflow-hidden">
+        <section className="w-full max-w-3xl px-6 mb-8">
+          <div className="grid grid-cols-2 min-[515px]:grid-cols-4 gap-[3px] rounded-2xl overflow-hidden">
             {clubs.map((club) => (
               <ClubCard key={club.id} {...club} />
             ))}

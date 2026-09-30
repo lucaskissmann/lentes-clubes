@@ -1,5 +1,7 @@
 import PillNav from "@/components/pill-nav";
 import { ClubCard } from "@/components/club-card";
+import Link from "next/link";
+import Image from "next/image";
 
 const clubs = [
   {
@@ -110,6 +112,22 @@ export default function Home() {
             </span>
           ))}
         </div>
+
+        <Link
+          href={"https://www.visaodecamarote.com.br/"}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Visão de Camarote"
+          aria-label="Visite o site Visão de Camarote"
+          className="mb-4 mx-4 p4"
+        >
+          <Image
+            src="/banner-visao-camarote.png"
+            height={200}
+            width={720}
+            alt="Banner Visão de Camarote"
+          />
+        </Link>
 
         {/* ── TAGLINE ── */}
         <p className="text-white/20 text-sm italic tracking-widest text-center">

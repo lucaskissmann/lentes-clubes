@@ -938,5 +938,75 @@
     "possuiWhatsapp": true,
     "cidade": "São José",
     "uf": "SC"
+  },
+  {
+    "id": 94,
+    "nome": "Lenir Ótica",
+    "endereco": "Avenida Sete de Setembro, 1025, Centro, Bagé - RS",
+    "whatsapp": "555332400399",
+    "image": "/oticas/lenir-bage.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Bagé",
+    "uf": "RS"
+  },
+  {
+    "id": 95,
+    "nome": "Óptica Prime",
+    "endereco": "Avenida Sete de Setembro, 773, Centro, Bagé - RS",
+    "whatsapp": "555333126508",
+    "image": "/oticas/prime-bage.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Bagé",
+    "uf": "RS"
+  },
+  {
+    "id": 96,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Rua Marechal Deodoro da Fonseca, 22, Sala 03 e 04, Centro, Indaial - SC",
+    "whatsapp": "5547992778418",
+    "image": "/oticas/mdo-indaial-cb.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Indaial",
+    "uf": "SC"
+  },
+  {
+    "id": 97,
+    "nome": "Mercadão dos Óculos",
+    "endereco": "Avenida Getúlio Vargas, 290, Sala 02, Centro, Timbó - SC",
+    "whatsapp": "5547992146846",
+    "image": "/oticas/mdo-timbo-cb.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Timbó",
+    "uf": "SC"
+  },
+  {
+    "id": 98,
+    "nome": "Ótica Freevision",
+    "endereco": "Avenida 7 de Setembro, 47, Centro, Treze de Maio - SC",
+    "whatsapp": "5548998028902",
+    "image": "/oticas/freevision.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Treze de Maio",
+    "uf": "SC"
+  },
+  {
+    "id": 99,
+    "nome": "Ótica Cocal",
+    "endereco": "Avenida Antônio Nunes de Souza, 59, Centro, Cocal do Sul - SC",
+    "whatsapp": "5548998028902",
+    "image": "/oticas/cocal-do-sul.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Cocal do Sul",
+    "uf": "SC"
+  },
+  {
+    "id": 100,
+    "nome": "Óptica Artlens",
+    "endereco": "Rua Duque de Caxias, 742, Centro, Jaguaruna - SC",
+    "whatsapp": "5548998031200",
+    "image": "/oticas/artlens.jpeg",
+    "possuiWhatsapp": true,
+    "cidade": "Jaguaruna",
+    "uf": "SC"
   }
 ]

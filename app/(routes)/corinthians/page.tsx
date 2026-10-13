@@ -2,7 +2,7 @@ import Image from "next/image";
 import { ProductSpecs } from "@/components/product-specs";
 import Background from "@/components/background";
 import PillNav from "@/components/pill-nav";
-import oticas from "@/app/data/oticas-corinthians.json";
+import oticas from "@/app/data/oticas-gremio.json";
 import { OticaFilter } from "@/components/otica-filter";
 
 export default function Corinthians() {

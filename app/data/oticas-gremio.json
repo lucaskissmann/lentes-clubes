@@ -1008,5 +1008,105 @@
     "possuiWhatsapp": true,
     "cidade": "Jaguaruna",
     "uf": "SC"
+  },
+  {
+    "id": 101,
+    "nome": "Ótica Okulos",
+    "endereco": "Avenida Paulo Lauda, 535, Cohab Tancredo Neves, Santa Maria - RS",
+    "whatsapp": "555530285903",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Santa Maria",
+    "uf": "RS"
+  },
+  {
+    "id": 102,
+    "nome": "TX Laboratório",
+    "endereco": "Rua Júlio de Castilhos, 1443, Centro, Canguçu - RS",
+    "whatsapp": "5553997058983",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Canguçu",
+    "uf": "RS"
+  },
+  {
+    "id": 103,
+    "nome": "Casa dos Óculos",
+    "endereco": "Rua dos Andradas, 1802, Centro Histórico, Porto Alegre - RS",
+    "whatsapp": "555132286586",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 104,
+    "nome": "Ótica Labotec",
+    "endereco": "Rua Venâncio Aires, 1745, Centro, Santa Maria - RS",
+    "whatsapp": "555532225952",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Santa Maria",
+    "uf": "RS"
+  },
+  {
+    "id": 105,
+    "nome": "Ótica Central",
+    "endereco": "Rua Aragão Bozano, 388, Centro, São José do Norte - RS",
+    "whatsapp": "555332391155",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São José do Norte",
+    "uf": "RS"
+  },
+  {
+    "id": 106,
+    "nome": "Ótica Rieff",
+    "endereco": "Avenida Santa Rita, 1150, Centro, Nova Santa Rita - RS",
+    "whatsapp": "5551998917761",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Nova Santa Rita",
+    "uf": "RS"
+  },
+  {
+    "id": 107,
+    "nome": "Ótica Verluz",
+    "endereco": "Avenida Severiano Albino Correa, 420, Fábio Silva, Tubarão - SC",
+    "whatsapp": "5548996898030",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Tubarão",
+    "uf": "SC"
+  },
+  {
+    "id": 108,
+    "nome": "Ótica Ghesla",
+    "endereco": "Rua Júlio de Castilhos, 2768, Térreo, Centro, Taquara - RS",
+    "whatsapp": "555135421928",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Taquara",
+    "uf": "RS"
+  },
+  {
+    "id": 109,
+    "nome": "Ótica Ghesla",
+    "endereco": "Rua Guilherme Lahm, 1351, Sala da Direita, Centro, Taquara - RS",
+    "whatsapp": "5551997925655",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Taquara",
+    "uf": "RS"
+  },
+  {
+    "id": 110,
+    "nome": "Ótica Ophtalmos",
+    "endereco": "Rua Rui Ramos, 34, Vila Imbuhy, Cachoeirinha - RS",
+    "whatsapp": "555130414104",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Cachoeirinha",
+    "uf": "RS"
   }
 ]

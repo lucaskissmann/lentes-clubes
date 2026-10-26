@@ -1108,5 +1108,165 @@
     "possuiWhatsapp": false,
     "cidade": "Cachoeirinha",
     "uf": "RS"
+  },
+    {
+    "id": 111,
+    "nome": "Ótica Encanto",
+    "endereco": "Avenida Vereador Manoel José dos Santos, 1241, Sala 05, Centro, Bombinhas - SC",
+    "whatsapp": "5547992933110",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Bombinhas",
+    "uf": "SC"
+  },
+  {
+    "id": 112,
+    "nome": "Ótica Zurik",
+    "endereco": "Avenida José Loureiro da Silva, 1443, Loja 02, Centro, Gravataí - RS",
+    "whatsapp": "5551992856279",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Gravataí",
+    "uf": "RS"
+  },
+  {
+    "id": 113,
+    "nome": "Ótica Dgrau",
+    "endereco": "Rua Borges de Medeiros, 233, Centro, Torres - RS",
+    "whatsapp": "5548996374754",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Torres",
+    "uf": "RS"
+  },
+  {
+    "id": 114,
+    "nome": "Óticas Dgrau",
+    "endereco": "Avenida Coronel João Fernandes, 26, Sala 04, Centro, Araranguá - SC",
+    "whatsapp": "5548998027003",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Araranguá",
+    "uf": "SC"
+  },
+  {
+    "id": 115,
+    "nome": "Óticas Dgrau",
+    "endereco": "Avenida Nereu Ramos, 682, Sala 05, Centro, Sombrio - SC",
+    "whatsapp": "5548998027003",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Sombrio",
+    "uf": "SC"
+  },
+  {
+    "id": 116,
+    "nome": "SIM Laboratório",
+    "endereco": "Avenida Júlio de Castilhos, 2060, Centro, Caxias do Sul - RS",
+    "whatsapp": "5554991928123",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Caxias do Sul",
+    "uf": "RS"
+  },
+  {
+    "id": 117,
+    "nome": "Ótica L.A",
+    "endereco": "Rua Dona Cristina, 294, Cristal, Porto Alegre - RS",
+    "whatsapp": "555120035626",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  {
+    "id": 118,
+    "nome": "Ótica Dr Óculos",
+    "endereco": "Avenida Santa Rosa, 444, Sala 05, Centro, Imbé - RS",
+    "whatsapp": "5551981236746",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Imbé",
+    "uf": "RS"
+  },
+  {
+    "id": 119,
+    "nome": "Centro da Visão",
+    "endereco": "Rua Duque de Caxias, 205, Sala 02, Centro, São Gabriel - RS",
+    "whatsapp": "5555991254000",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Gabriel",
+    "uf": "RS"
+  },
+  {
+    "id": 120,
+    "nome": "Mercadão dos Óculos - Loja 02",
+    "endereco": "Rua Santo Vergani, 602, Ap 101, Vila Verde, Caxias do Sul - RS",
+    "whatsapp": "5554991037019",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Caxias do Sul",
+    "uf": "RS"
+  },
+  {
+    "id": 121,
+    "nome": "Ótica Cinderela Redvis",
+    "endereco": "Avenida Presidente Lucena, 3315, Sala 06, Centro, Ivoti - RS",
+    "whatsapp": "555135632077",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Ivoti",
+    "uf": "RS"
+  },
+  {
+    "id": 122,
+    "nome": "Ótica 1001",
+    "endereco": "Avenida do Estado Dalmo Vieira, 3033, Sala 02, Centro, Balneário Camboriú - SC",
+    "whatsapp": "5547992480070",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Balneário Camboriú",
+    "uf": "SC"
+  },
+  {
+    "id": 123,
+    "nome": "Divina Ótica",
+    "endereco": "Rua Primeiro de Março, 520, Centro, São Leopoldo - RS",
+    "whatsapp": "5551981717369",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Leopoldo",
+    "uf": "RS"
+  },
+  {
+    "id": 124,
+    "nome": "Ótica Visare",
+    "endereco": "Avenida Paraguassu, 2720, Centro, Capão da Canoa - RS",
+    "whatsapp": "555134164640",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Capão da Canoa",
+    "uf": "RS"
+  },
+  {
+    "id": 125,
+    "nome": "Ótica Luna",
+    "endereco": "Rua Voluntários da Pátria, 1181, Centro, Pelotas - RS",
+    "whatsapp": "5553981463500",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  {
+    "id": 126,
+    "nome": "Óptica Santo Grau",
+    "endereco": "Avenida Governador Ivo Silveira, 1080, Sala 01, Centro, Irani - SC",
+    "whatsapp": "5549991074241",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Irani",
+    "uf": "SC"
   }
 ]

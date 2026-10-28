@@ -2,6 +2,7 @@ import PillNav from "@/components/pill-nav";
 import { ClubCard } from "@/components/club-card";
 import Link from "next/link";
 import Image from "next/image";
+import { CredentialButton } from "@/components/credential-button";
 
 const clubs = [
   {
@@ -111,6 +112,18 @@ export default function Home() {
               <strong className="text-white/55 font-medium">{selo}</strong>
             </span>
           ))}
+        </div>
+
+        {/* ── LOJISTAS ── */}
+        <div className="flex flex-col items-center text-center gap-3 mb-12 px-6">
+          <p className="text-white/40 text-sm">
+            Tem uma ótica e quer vender as Lentes Clubes?
+          </p>
+          <CredentialButton
+            borderColor="border-zinc-400/40"
+            bgColor="bg-zinc-500/30"
+            textColor="text-zinc-300"
+          />
         </div>
 
         <Link

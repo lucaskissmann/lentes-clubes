@@ -4,6 +4,7 @@ import Background from "@/components/background";
 import PillNav from "@/components/pill-nav";
 import oticas from "@/app/data/oticas-gremio.json";
 import { OticaFilter } from "@/components/otica-filter";
+import { CredentialButton } from "@/components/credential-button";
 
 export default function Corinthians() {
 	return (
@@ -84,9 +85,19 @@ export default function Corinthians() {
 							<span className="text-sm tracking-widest uppercase text-zinc-400 mb-3 block">
 								Onde encontrar
 							</span>
-							<h2 className="text-2xl sm:text-3xl font-bold text-white leading-snug">
-								Óticas autorizadas
-							</h2>
+
+              <div className="flex items-center justify-between gap-3 sm:gap-4">
+                <h2 className="min-w-0 text-2xl sm:text-3xl font-bold text-white leading-snug">
+                  Óticas autorizadas
+                </h2>
+								<CredentialButton
+									borderColor="border-zinc-400/40"
+									bgColor="bg-zinc-500/30"
+									textColor="text-zinc-300"
+									breakOnSmall
+								/>
+							</div>
+
 							<p className="text-white/40 text-sm mt-2 max-w-md leading-relaxed">
 								Encontre uma loja perto de você e garanta as suas lentes com atendimento especializado.
 							</p>

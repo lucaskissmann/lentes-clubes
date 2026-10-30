@@ -1268,5 +1268,185 @@
     "possuiWhatsapp": true,
     "cidade": "Irani",
     "uf": "SC"
+  },
+  {
+    "id": 127,
+    "nome": "Saguaçu Comércio e Tecnologia",
+    "endereco": "Rua Joaçaba, 74, Sala 02, Saguaçu, Joinville - SC",
+    "whatsapp": "5547988426677",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Joinville",
+    "uf": "SC"
+  },
+  {
+    "id": 128,
+    "nome": "Ótica Visotica",
+    "endereco": "Rua M 25, 118, Parque das Indústrias, Rio Claro - SP",
+    "whatsapp": "5519998012277",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Rio Claro",
+    "uf": "SP"
+  },
+  {
+    "id": 129,
+    "nome": "Mira Exclusive",
+    "endereco": "Rua Monsenhor Rafael Roldan, 93, Jardim do Trevo, Campinas - SP",
+    "whatsapp": "5519988028437",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Campinas",
+    "uf": "SP"
+  },
+  {
+    "id": 130,
+    "nome": "Óticas Diniz Tiradentes",
+    "endereco": "Avenida Souza Ramos, 475, Guaianases, São Paulo - SP",
+    "whatsapp": "5511994800059",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 131,
+    "nome": "Óticas Diniz Negreiros",
+    "endereco": "Avenida Ragueb Chohfi, 4831, Loja 06, Jardim Iguatemi, São Paulo - SP",
+    "whatsapp": "551127064180",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 132,
+    "nome": "Óptica Satiko",
+    "endereco": "Rua Raimundo Paradera, 129, Vila Rosária, São Paulo - SP",
+    "whatsapp": "5511985463940",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 133,
+    "nome": "Óticas Diniz Araraquara",
+    "endereco": "Avenida 9 de Julho, 485, Centro, Araraquara - SP",
+    "whatsapp": "5516982025484",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Araraquara",
+    "uf": "SP"
+  },
+  {
+    "id": 134,
+    "nome": "Óticas Diniz São Carlos",
+    "endereco": "Avenida São Carlos, 1255, Loja C, Centro, São Carlos - SP",
+    "whatsapp": "",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Carlos",
+    "uf": "SP"
+  },
+  {
+    "id": 135,
+    "nome": "Óticas Diniz Porto Ferreira",
+    "endereco": "Rua Dona Balbina, 605, Loja A, Centro, Porto Ferreira - SP",
+    "whatsapp": "5519992104727",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Porto Ferreira",
+    "uf": "SP"
+  },
+  {
+    "id": 136,
+    "nome": "Santa Mania Ótica",
+    "endereco": "Rua Rui Barbosa, 1441, Centro, Assis - SP",
+    "whatsapp": "5518997257329",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Assis",
+    "uf": "SP"
+  },
+  {
+    "id": 137,
+    "nome": "Ótica Marsala",
+    "endereco": "Avenida Brasil, 1287, Vila Romanópolis, Ferraz de Vasconcelos - SP",
+    "whatsapp": "5511932621773",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Ferraz de Vasconcelos",
+    "uf": "SP"
+  },
+  {
+    "id": 138,
+    "nome": "Beach Golden",
+    "endereco": "Avenida Anchieta, 2141, Centro, Bertioga - SP",
+    "whatsapp": "5513997751868",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Bertioga",
+    "uf": "SP"
+  },
+  {
+    "id": 139,
+    "nome": "Beach Golden",
+    "endereco": "Avenida Walkir Vergani, 441, Loja 05, Boiçucanga, São Sebastião - SP",
+    "whatsapp": "5513997751868",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Sebastião",
+    "uf": "SP"
+  },
+  {
+    "id": 140,
+    "nome": "Ale Gava",
+    "endereco": "Rua da Emancipação, 3770, Bloco B, Jardim do Bosque, Hortolândia - SP",
+    "whatsapp": "5519996174989",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Hortolândia",
+    "uf": "SP"
+  },
+  {
+    "id": 141,
+    "nome": "Ótica GZ",
+    "endereco": "Rua da Liberdade, 110, Centro, Itaquaquecetuba - SP",
+    "whatsapp": "5511985110819",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Itaquaquecetuba",
+    "uf": "SP"
+  },
+  {
+    "id": 142,
+    "nome": "Óticas Diniz Itaquera",
+    "endereco": "Rua Gregório Ramalho, 283, Anexo 287, Itaquera, São Paulo - SP",
+    "whatsapp": "5511970555655",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 143,
+    "nome": "Óticas Diniz Itaquera Shopping",
+    "endereco": "Avenida José Pinheiro Borges, Loja 480, Vila Campanela, São Paulo - SP",
+    "whatsapp": "551120407313",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 144,
+    "nome": "Ótica Duarte",
+    "endereco": "Calçadão Osvaldo Cruz, 30, Centro, Novo Hamburgo - RS",
+    "whatsapp": "556235947713",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Novo Hamburgo",
+    "uf": "RS"
   }
 ]

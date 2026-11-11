@@ -310,16 +310,6 @@
     "uf": "RS"
   },
   {
-    "id": 31,
-    "nome": "Ótica Visual",
-    "endereco": "Rua Gal Neto, 130, Centro - Rio Grande - RS",
-    "whatsapp": "555332317555",
-    "image": "/oticas/visual-rg.jpeg",
-    "possuiWhatsapp": false,
-    "cidade": "Rio Grande",
-    "uf": "RS"
-  },
-  {
     "id": 32,
     "nome": "Ótica Visual",
     "endereco": "Rua Dr. Alvaro Costa, 24, Centro - São José do Norte - RS",
@@ -1447,6 +1437,176 @@
     "image": "/oticas/default.png",
     "possuiWhatsapp": false,
     "cidade": "Novo Hamburgo",
+    "uf": "RS"
+  },
+  {
+    "id": 145,
+    "nome": "Mais Óptica Bertioga",
+    "endereco": "Avenida 19 de Maio, 215, Albatroz, Bertioga - SP",
+    "whatsapp": "551333172830",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Bertioga",
+    "uf": "SP"
+  },
+  {
+    "id": 146,
+    "nome": "Reiban",
+    "endereco": "Rua Doutor Aureliano Barreiros, 18, Itaquera, São Paulo - SP",
+    "whatsapp": "551120526835",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 147,
+    "nome": "Pignatari",
+    "endereco": "Estrada do Sacramento, 965, Cidade Tupinambá, Guarulhos - SP",
+    "whatsapp": "5511986797948",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Guarulhos",
+    "uf": "SP"
+  },
+  {
+    "id": 148,
+    "nome": "Notre Vision Mooca",
+    "endereco": "Rua Dom Aquino, 1326, Centro, Campo Grande - MS",
+    "whatsapp": "551167060759",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "Campo Grande",
+    "uf": "MS"
+  },
+  {
+    "id": 149,
+    "nome": "Notre Vision Mooca",
+    "endereco": "Rua da Mooca, 1948, Mooca, São Paulo - SP",
+    "whatsapp": "5511967869489",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 150,
+    "nome": "Notre Vision",
+    "endereco": "Rua Desembargador Bandeira de Mello, 331, Santo Amaro, São Paulo - SP",
+    "whatsapp": "551154690279",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 151,
+    "nome": "Reiban Itaim",
+    "endereco": "Praça Silva Teles, 102, Itaim Paulista, São Paulo - SP",
+    "whatsapp": "5511930011002",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 152,
+    "nome": "Ultrafarma Itaquaquecetuba",
+    "endereco": "Rua Capitão José Leite, 90, Centro, Itaquaquecetuba - SP",
+    "whatsapp": "5511940036537",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Itaquaquecetuba",
+    "uf": "SP"
+  },
+  {
+    "id": 153,
+    "nome": "Óptica Diamant",
+    "endereco": "Rua Curicharas, 15, Jardim Aimoré, São Paulo - SP",
+    "whatsapp": "5511975933101",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 154,
+    "nome": "Ultrafarma Imperador",
+    "endereco": "Rua Trevo de Santa Maria, 677, Parque Guarani, São Paulo - SP",
+    "whatsapp": "5511975933101",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 155,
+    "nome": "Fábrica de Óculos Focus",
+    "endereco": "Avenida Ítalo Adami, 574, Vila Virgínia, Itaquaquecetuba - SP",
+    "whatsapp": "5511967761365",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Itaquaquecetuba",
+    "uf": "SP"
+  },
+  {
+    "id": 156,
+    "nome": "Ótica Resgate",
+    "endereco": "Avenida Marechal Tito, 913, São Miguel Paulista, São Paulo - SP",
+    "whatsapp": "5511966167202",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 157,
+    "nome": "Outlet Ótica",
+    "endereco": "Avenida Armando Salles de Oliveira, 1520, Parque Suzano, Suzano - SP",
+    "whatsapp": "5511989957393",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Suzano",
+    "uf": "SP"
+  },
+  {
+    "id": 158,
+    "nome": "Outlet Ótica",
+    "endereco": "Rua Gilda, 153, Vila do Americano, Ferraz de Vasconcelos - SP",
+    "whatsapp": "5511968352141",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "Ferraz de Vasconcelos",
+    "uf": "SP"
+  },
+  {
+    "id": 159,
+    "nome": "Nossa Ótica",
+    "endereco": "Avenida dos Metalúrgicos, 1295, Cidade Tiradentes, São Paulo - SP",
+    "whatsapp": "551137799872",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": false,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "id": 160,
+    "nome": "Ultrafarma São Rafael",
+    "endereco": "Avenida Baronesa de Muritiba, 728, Parque São Rafael, São Paulo - SP",
+    "whatsapp": "5511964568576",
+    "image": "/oticas/default.png",
+    "possuiWhatsapp": true,
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+    {
+    "id": 161,
+    "nome": "Ótica Visual",
+    "endereco": "Rua Gal Neto, 130, Centro - Rio Grande - RS",
+    "whatsapp": "555332317555",
+    "image": "/oticas/visual-rg.jpeg",
+    "possuiWhatsapp": false,
+    "cidade": "Rio Grande",
     "uf": "RS"
   }
 ]
